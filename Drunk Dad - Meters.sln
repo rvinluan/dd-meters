@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCB16E4E-4488-AE7B-5782-A8ACCEDB5148}") = "Drunk Dad - Meters", "Assembly-CSharp-firstpass.csproj", "{D5AF0AD2-14D1-768A-DFB7-C99EB69CB1C7}"
+EndProject
+Project("{BCB16E4E-4488-AE7B-5782-A8ACCEDB5148}") = "Drunk Dad - Meters", "Assembly-CSharp.csproj", "{A4E309D9-5E21-9010-0180-ACB10E9C456D}"
+EndProject
+Project("{BCB16E4E-4488-AE7B-5782-A8ACCEDB5148}") = "Drunk Dad - Meters", "Assembly-CSharp-Editor.csproj", "{6A498621-8513-CAD0-7BA0-35F77ABB87F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AF0AD2-14D1-768A-DFB7-C99EB69CB1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AF0AD2-14D1-768A-DFB7-C99EB69CB1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AF0AD2-14D1-768A-DFB7-C99EB69CB1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AF0AD2-14D1-768A-DFB7-C99EB69CB1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E309D9-5E21-9010-0180-ACB10E9C456D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E309D9-5E21-9010-0180-ACB10E9C456D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E309D9-5E21-9010-0180-ACB10E9C456D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E309D9-5E21-9010-0180-ACB10E9C456D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A498621-8513-CAD0-7BA0-35F77ABB87F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A498621-8513-CAD0-7BA0-35F77ABB87F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A498621-8513-CAD0-7BA0-35F77ABB87F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A498621-8513-CAD0-7BA0-35F77ABB87F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
